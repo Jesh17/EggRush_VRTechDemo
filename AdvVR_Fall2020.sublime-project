@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.ttf",
+				"*.tif",
+				"*.mp3",
+				"*.jpg",
+				"*.png",
+				"*.otf",
+				"*.meta"
+			],
+			"path": "Assets"
+		}
+	]
+}
